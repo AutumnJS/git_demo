@@ -7,7 +7,6 @@
 //
 
 #import "AppDelegate.h"
-/////111111
 @interface AppDelegate ()
 
 @end
@@ -16,6 +15,7 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+    NSLog(@"js_abc_12345");
     // Override point for customization after application launch.
     return YES;
 }
